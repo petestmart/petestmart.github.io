@@ -1,8 +1,8 @@
 h3 {
-  height: 200%;
+  font family: Palatino, 'Palatino Linotype', serif;
+  color: red;
+  height: 100%;
   margin: 0;
-  text align: center;
-  width: 799%
-    color: red;
-  
+  text align: left;
+  width: 100%  
 }
